@@ -1,4 +1,4 @@
-# Welcome! 👋
+# Hello! I'm Luca! 👋
 
 As an individual with a passion for economics and business, I am also a technology enthusiast who loves to solve problems using code, particularly when it comes to working with data.
 
